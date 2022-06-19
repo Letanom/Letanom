@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Letanom
 - 👀 I’m interested in c#,unity 
-- 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning c#,unity,python
+- 📫 How to reach me kevinozsimsek@gmail.com  
 
 <!---
 Letanom/Letanom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
