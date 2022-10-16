@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Letanom
 - 👀 I’m interested in c#,unity 
-- 🌱 I’m currently learning c#,unity,python
+- 🌱 I’m currently learning c#,unity,python,java
 - 📫 How to reach me kevinozsimsek@gmail.com  
 
 <!---
