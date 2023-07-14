@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Letanom
 - 🧑‍💻 I'm Frontend Developer with expertise in React, Tailwind CSS, HTML, CSS, and JavaScript.
-- 👀 I’m interested also in c#,java,sql,php,MongoDB,Wordpress
+- 👀 I’m also interested  in C#,Java,Sql,Php,MongoDB,Wordpress
 - 🌟 Collaborative and detail-oriented, I thrive in cross-functional teams, working closely with designers and backend developers to ensure the successful implementation of projects.
 - 📫 Feel free to reach out to me through kevinozsimsek@gmail.com  
 - 🙂 I love playing games and here i tried developing a futboll game https://kevinozsimsek.itch.io/prime-futboll (not finished project)
