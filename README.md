@@ -1,6 +1,6 @@
 👋 Hi, I’m @Letanom
 
-👀 I’m interested in C#, Java, SQL, PHP, MongoDB, Node.js, JavaScript, React.js, Python.
+👀 I’m interested in C#, Java, SQL, PHP, MongoDB, Node.js, JavaScript, React.js, Python, Docker, Kubernetes, Jenkins ,AWS, Azure.
 
 🌟 Fully motivated and a positive team player, adaptable, and passionate about solving real-world problems.
 
