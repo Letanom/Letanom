@@ -6,8 +6,7 @@
 
 📫 Feel free to reach out to me via kevinozsimsek@gmail.com
 
-🙂 I love playing games and here i tried developing a futboll game https://kevinozsimsek.itch.io/prime-futboll (not finished project)
-
+🙂 I love playing games and here i tried developing a 3D soccer game https://kevinozsimsek.itch.io/prime-futboll 
 📚 My personal blog https://medium.com/@kevinozsimsek
 <!---
 Letanom/Letanom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
