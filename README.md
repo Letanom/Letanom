@@ -39,7 +39,7 @@
 ## 📊 GitHub Stats
 ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Letanom&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Letanom&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Letanom&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Letanom&theme=tokyonight)
 
 ---
 
