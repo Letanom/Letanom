@@ -2,7 +2,6 @@
 
 🔹 **Site Reliability & Platform Operations**  
 🔹 **Cloud & DevOps Enthusiast**  
-☁️ AWS | 🔧 Terraform | 🐳 Docker | ☸️ Kubernetes (EKS) | 📊 Grafana (Loki, Prometheus) | 🔧 New Relic | ⚙️ Jenkins | ☁️ Azure  
 
 ---
 
