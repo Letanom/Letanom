@@ -1,15 +1,58 @@
-👋 Hi, I’m Kevin
+# 👋 Hi, I’m Kevin
 
-👀 I’m interested in AWS, Grafana, Grafana plugins(loki,prometheus),C#,Terraform, Java, SQL, PHP, MongoDB, Node.js, JavaScript, React.js, Python, Docker, Kubernetes, Jenkins ,AWS, Azure.
+🔹 **Site Reliability & Platform Operations**  
+🔹 **Cloud & DevOps Enthusiast**  
+☁️ AWS | 🔧 Terraform | 🐳 Docker | ☸️ Kubernetes | 📊 Grafana (Loki, Prometheus) | ⚙️ Jenkins | ☁️ Azure  
 
-🌟 Fully motivated and a positive team player, adaptable, and passionate about solving problems.
+---
 
-📫 Feel free to reach out to me via kevinozsimsek@gmail.com
+## 🔧 Technologies & Tools
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-00B8E3?style=for-the-badge&logo=grafana&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
-🙂 I love playing games and here i tried developing a 3D soccer game https://kevinozsimsek.itch.io/prime-futboll 
-📚 My personal blog https://medium.com/@kevinozsimsek
-<!---
-Letanom/Letanom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
 
+## 📊 GitHub Stats
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Letanom&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Letanom&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Letanom&theme=tokyonight)
+
+---
+
+## 🌟 About Me  
+- 🔹 Fully motivated and a positive team player  
+- 🔹 Adaptable, always learning new tools & technologies  
+- 🔹 Passionate about **reliability, scalability, and solving complex problems**  
+
+---
+
+## 📫 Contact  
+📧 kevinozsimsek@gmail.com  
+
+---
+
+## 🙂 Fun Stuff  
+🎮 I love playing games — I even tried developing one:  
+👉 [3D Soccer Game – Prime Futboll](https://kevinozsimsek.itch.io/prime-futboll)  
+
+✍️ I also share thoughts on tech here:  
+👉 [My Blog on Medium](https://medium.com/@kevinozsimsek)  
+
+---
+
+## 👀 Visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=Letanom&style=for-the-badge&color=blue)
+
+---
+
+🌱 *“Keep learning, keep building, keep shipping.”*
