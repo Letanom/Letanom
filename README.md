@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Kevin
 
 🔹 **Site Reliability & Platform Operations**  
-🔹 **Cloud & DevOps Enthusiast**  
+🔹 **Cloud & DevOps**  
 
 ---
 
